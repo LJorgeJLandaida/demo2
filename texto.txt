@@ -1,1 +1,12 @@
-proyecto 1
+PROYECTO 1
+-------------------------------------------------------------
+hola mundo
+y todo lo que coloque aca
+algun otro cambio
+van a ver que no aparece el punto blancosi no guardo no aparece
+---------------------------------------------------------------
+
+PUNTO 2
+---------------------------------------------------------------
+otra cosa estoy modificando
+---------------------------------------------------------------
